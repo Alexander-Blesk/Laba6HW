@@ -46,6 +46,7 @@ main() {
 # Пример работы программы при вводе значений 10 и 4
 
 Контрольный пример программы (-3;-3)
+
 Выход: Точка принадлежит
 
 <img width="451" height="61" alt="image" src="https://github.com/user-attachments/assets/feb91b7c-3df9-4ee3-8528-0e51ad7dab80" />
