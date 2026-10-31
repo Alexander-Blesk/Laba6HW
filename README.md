@@ -53,6 +53,11 @@ main() {
 
 <img width="451" height="61" alt="image" src="https://github.com/user-attachments/assets/feb91b7c-3df9-4ee3-8528-0e51ad7dab80" />
 
+Контрольный пример программы (5;5)
+
+Выход: Точка не принадлежит
+
+<img width="427" height="46" alt="image" src="https://github.com/user-attachments/assets/cdb270f7-7e3b-4d34-8771-8814fdd37f8e" />
 
 # Информация о разработчике
 
